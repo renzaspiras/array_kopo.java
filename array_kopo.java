@@ -68,8 +68,7 @@ public class array_kopo {
     System.out.print("     |Total Average: ");
     System.out.println((average0 + average1 + average2 + average3 + average4 + average5)/6);
     System.out.println("----------------------------------------------------");
-
-
-
+    System.out.println("           By Renz Cruz Aspiras");
+    System.out.println("----------------------------------------------------");
     }
 }
